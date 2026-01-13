@@ -8,7 +8,7 @@ header{
     text-align: center;
 }
 .pageTitle{
-    background-color: #f56e46;
+    background-color: #12cc21;
     color: white;
     margin: 0 auto;
     padding: 20px;
@@ -19,10 +19,19 @@ main {
 }
 .journey {
     margin: 10px auto;
-    padding: 50px;
+    padding: 70px;
     background-color: white;
     border: solid 1px #464646;
     border-radius: 20px;
+    position: relative;
+}
+.button {
+    background-color: #12cc21;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    position: absolute;
 }
 .clear{
     clear: both;
